@@ -7,6 +7,7 @@ public class Boleta {
 	private String fecha;
 	private int id_tienda;
 	private Double total;
+	private int papaya;
 
 	public Boleta() {
 	}
