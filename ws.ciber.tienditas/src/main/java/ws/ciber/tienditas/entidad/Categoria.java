@@ -1,7 +1,7 @@
 package ws.ciber.tienditas.entidad;
 
 public class Categoria {
-
+	private double mango;
 	private int id_categoria;
 	private String descripcion;
 
